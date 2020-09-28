@@ -1,0 +1,13 @@
+.Data resource 
+For the current project I have used from a pen source from google data search engine data data.gov.uk Find open data. The data details are as follows Published by:
+Leeds City Council Last updated: 22 July 2020 Topic: Not added Licence: Open Government Licence. 
+URL:https://datasetsearch.research.google.com/search?query=car%20accidents&docid=yKyJqNCmNypGNKe7AAAAAA%3D%3D. 
+In which I have selected downloaded accidents dataset 2019 in csv format
+
+5.Data understanding and Data preparation methods
+Data understanding
+The project data UK accident year 2019 set consists following attributes. The data which I have downloaded already assigned to attributes. In order make data comfort and easy to use number are assigned for each column of object. Because The columns road surface, road class, Lighting Conditions etc. attributes area object type. 
+
+The current project about car accident servity, then I drop the all other rows accept car accident data. For this, in column name type of vehicle
+I have selected 9(9 value which corresponds to car) values by applying filter in excel data and convert to csv format.
+For the current project python from jupyter lab used. I have imported csv using pandas, NumPy, so modules from python frame work.
