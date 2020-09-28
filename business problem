@@ -1,0 +1,21 @@
+1.Introduction
+There is a huge impact on the society due to traffic accidents where there is a great cost of fatalities and injuries. In recent years, there is an increase in the researches
+attention to determine the significantly affect the severity of the driver’s injuries which is caused due to the road accidents. Accurate and comprehensive accident records are
+the basis of accident analysis. the effective use of accident records depends on some factors, like the accuracy of the data, record retention, and data analysis. There are many
+approaches applied to this scenario to study this problem.
+A recent study illustrated that the residential and shopping sites are more hazardous than village areas.as might have been predicted, the frequencies of the casualties were 
+higher near the zones of residence possibly because of the higher exposure. A study revealed that the casualty rates among the residential areas are classified as relatively 
+deprived and significantly higher than those from relatively affluent areas. Road accidents have become very common these days. Nearly 1.25 million people die in road crashes
+each year, on average, 3,287 deaths a day. Moreover, 20–50 million people are injured or disabled annually. Road traffic crashes rank as the 9th leading cause of death and 
+accounts for 2.2% of all deaths globally. In this contest to better servity of the accidents machine learning and neural techniques has been used analysis. These techniques
+helpful to better accident servity. Car accidents are one of the common types of collision occurring everywhere globally every day. By analysing the different factors which
+cause the collision. In this section we are discussing about data Capstone project topic Car accident servity. where you discuss the business problem and who would be interested
+in this project.
+2.Business Understanding
+Car collision or car accident one of the collision type in Road accidents. According to Corrigan [1], despite collecting large quantities of traffic data, Transportation 
+Departments of all levels are unable to use such data to good effect. Founded in 2015, a start-up called ODN could predict when and where accidents are most likely to happen. 
+Officials could use such information to direct safety efforts at the stretches of road where the impacts could be the biggest. In the context of this research, some of the 
+developed countries like US, UK governments could use the information generated from a prediction system with a Neural Network predicting the accident severity and use this 
+information to enhance the laws to build safer roads for the future. In this project we are dealing with the all the possible ways to reach the destination by overcoming car 
+accident servity with the different critical traffic conditions on the way to journey. By prediction car accident servity improve the traffic safety measures. And implements 
+the traffic rules accordingly by governments Better servity conditions.
